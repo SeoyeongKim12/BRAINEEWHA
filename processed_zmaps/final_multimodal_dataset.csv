@@ -1,0 +1,11 @@
+subject_id,zmap_path,behavioral_features,wm_accuracy
+103111,C:\BRAINEEWHA\processed_zmaps\103111_tfMRI_WM_RL_zmap.nii.gz,"[ 0.61750059  0.66208471 -0.43821636  1.12938536  0.          1.
+  0.          1.          0.        ]",92.404
+103414,C:\BRAINEEWHA\processed_zmaps\103414_tfMRI_WM_RL_zmap.nii.gz,"[-0.30926232 -0.99312707  0.80252793 -1.10607503  1.          0.
+  1.          0.          0.        ]",91.679
+103818,C:\BRAINEEWHA\processed_zmaps\103818_tfMRI_WM_RL_zmap.nii.gz,"[-0.04300999 -1.40693001  0.90305334 -0.04662065  1.          0.
+  0.          0.          1.        ]",85.604
+105014,C:\BRAINEEWHA\processed_zmaps\105014_tfMRI_WM_RL_zmap.nii.gz,"[-1.63028349  0.66208471 -1.76180104 -1.10607503  1.          0.
+  0.          1.          0.        ]",94
+105115,C:\BRAINEEWHA\processed_zmaps\105115_tfMRI_WM_RL_zmap.nii.gz,"[1.36505521 1.07588766 0.49443613 1.12938536 0.         1.
+ 0.         0.         1.        ]",89.979
